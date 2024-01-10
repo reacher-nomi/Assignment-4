@@ -1,0 +1,77 @@
+Host Name:                 DESKTOP-EDA75QV
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          SKY TECH
+Registered Organization:
+Product ID:                00328-90000-00000-AAOEM
+Original Install Date:     10/12/2021, 4:56:59 PM
+System Boot Time:          1/5/2024, 6:22:42 PM
+System Manufacturer:       HP
+System Model:              HP Notebook
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 9 GenuineIntel ~2701 Mhz
+BIOS Version:              Insyde F.49, 6/26/2020
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+05:00) Islamabad, Karachi
+Total Physical Memory:     16,300 MB
+Available Physical Memory: 8,240 MB
+Virtual Memory: Max Size:  17,388 MB
+Virtual Memory: Available: 5,201 MB
+Virtual Memory: In Use:    12,187 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-EDA75QV
+Hotfix(s):                 30 Hotfix(s) Installed.
+                           [01]: KB5032005
+                           [02]: KB5029923
+                           [03]: KB4562830
+                           [04]: KB5003791
+                           [05]: KB5011048
+                           [06]: KB5012170
+                           [07]: KB5015684
+                           [08]: KB5033372
+                           [09]: KB5006753
+                           [10]: KB5007273
+                           [11]: KB5011352
+                           [12]: KB5011651
+                           [13]: KB5014032
+                           [14]: KB5014035
+                           [15]: KB5014671
+                           [16]: KB5015895
+                           [17]: KB5016705
+                           [18]: KB5018506
+                           [19]: KB5020372
+                           [20]: KB5022924
+                           [21]: KB5023794
+                           [22]: KB5025315
+                           [23]: KB5026879
+                           [24]: KB5028318
+                           [25]: KB5028380
+                           [26]: KB5029709
+                           [27]: KB5031539
+                           [28]: KB5032392
+                           [29]: KB5032907
+                           [30]: KB5005699
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Realtek RTL8188EE 802.11 bgn Wi-Fi Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.113
+                                 [02]: fe80::8d9:691b:64b6:d8c6
+                           [02]: Realtek PCIe FE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
